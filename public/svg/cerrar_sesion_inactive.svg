@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0178822511 19.1586591 0.0178822511 19.1586591 11.4738736 0 11.4738736"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---Cuenta" transform="translate(-944.000000, -134.000000)">
+            <g id="Group-13" transform="translate(925.000000, 46.000000)">
+                <g id="Group-6" transform="translate(19.000000, 88.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 4.791667)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M14.7693937,7.37589091 L12.1337794,10.1263325 L13.470852,11.4738736 L19.1586591,5.75030866 L13.4790522,0.0178822511 L12.1407446,1.36661818 L14.7682575,4.08310736 C14.9461914,4.27104026 15.154456,4.48978918 15.3355513,4.67966364 L-4.93986254e-06,4.67966364 L-4.93986254e-06,6.82035628 L15.2981566,6.82035628 C15.131041,6.9985316 14.9391768,7.20125022 14.7693937,7.37589091" id="Fill-1" fill="#219D51" mask="url(#mask-2)"></path>
+                    </g>
+                    <polygon id="Fill-4" fill="#219D51" points="6.70833333 0 6.70833333 5.28317721 8.82477341 5.28317721 8.82477341 2.12314598 20.8835599 2.12314598 20.8835599 18.9601874 8.82477341 18.9601874 8.82477341 15.8001561 6.70833333 15.8001561 6.70833333 21.0833333 23 21.0833333 23 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

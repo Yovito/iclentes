@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-search" transform="translate(1.000000, 1.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="0.5">
+            <path d="M10.710577,5.9376822 L10.45809,6.1883254 C11.350029,7.2284032 11.89251,8.5767538 11.89251,10.054085 C11.89251,13.3380596 9.230417,16 5.946255,16 C2.662093,16 0,13.3380596 0,10.054085 C0,6.7701103 2.662093,4.1081699 5.946255,4.1081699 C7.423671,4.1081699 8.771184,4.6497056 9.811321,5.5406781 L10.063808,5.2900349 L10.063808,4.565548 L14.636021,0 L16,1.3639014 L11.436935,5.9376822 L10.710577,5.9376822 Z M1.829617,10.054085 C1.829617,12.327254 3.672041,14.1704877 5.946255,14.1704877 C8.219554,14.1704877 10.062893,12.327254 10.062893,10.054085 C10.062893,7.7800011 8.219554,5.9376822 5.946255,5.9376822 C3.672041,5.9376822 1.829617,7.7800011 1.829617,10.054085 Z" id="Shape" transform="translate(8.000000, 8.000000) scale(-1, 1) rotate(-180.000000) translate(-8.000000, -8.000000) "></path>
+        </g>
+    </g>
+</svg>

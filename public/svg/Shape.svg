@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="5px" viewBox="0 0 5 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cateogrías" transform="translate(-26.000000, -31.000000)" fill="#FCF4D9">
+            <g id="View">
+                <g transform="translate(20.000000, 20.000000)">
+                    <path d="M9.77302326,11.3116279 L7.40093023,11.3116279 C6.74589483,11.3116279 6.21488372,11.8114031 6.21488372,12.427907 L6.21488372,14.6604651 C6.21488372,15.276969 6.74589483,15.7767442 7.40093023,15.7767442 L9.77302326,15.7767442 C10.4280587,15.7767442 10.9590698,15.276969 10.9590698,14.6604651 L10.9590698,12.427907 C10.9590698,11.8114031 10.4280587,11.3116279 9.77302326,11.3116279 L9.77302326,11.3116279 Z M9.77302326,14.6604651 L7.40093023,14.6604651 L7.40093023,12.427907 L9.77302326,12.427907 L9.77302326,14.6604651 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

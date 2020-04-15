@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="32px" viewBox="0 0 25 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07.Detalle_pedido" transform="translate(-47.000000, -372.000000)" fill-rule="nonzero" stroke="#484D4F">
+            <g id="placeholder" transform="translate(48.000000, 373.000000)">
+                <path d="M11.1526435,-0.5 C14.2580224,-0.5 17.1816949,0.64108736 19.3814577,2.71400029 C23.469148,6.5643351 23.9736938,13.7661673 20.4772836,18.1568352 L11.1526636,30.8442675 L10.7497658,30.2961243 L1.82635132,18.1551744 C-1.67061976,13.7628223 -1.16127223,6.56134877 2.92380214,2.71347794 C5.12376379,0.640949867 8.04746813,-0.5 11.1526435,-0.5 Z" id="Shape" fill="#78B928" stroke-linejoin="round"></path>
+                <path d="M11.1515152,8.18181818 C13.4574892,8.18181818 15.3333333,10.0174675 15.3333333,12.2727273 C15.3333333,14.527987 13.4574892,16.3636364 11.1515152,16.3636364 C8.84554113,16.3636364 6.96969697,14.527987 6.96969697,12.2727273 C6.96969697,10.0174675 8.84554113,8.18181818 11.1515152,8.18181818 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

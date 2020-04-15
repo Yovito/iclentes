@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="388px" height="44px" viewBox="0 0 388 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Movil----carrito-detalle" transform="translate(-13.000000, -109.000000)">
+            <g id="Group" transform="translate(13.000000, 109.000000)">
+                <text id="Cantidad_active" font-family="Gotham-Medium, Gotham" font-size="12" font-weight="400" line-spacing="14" fill="#219D51">
+                    <tspan x="88.724" y="41">Revisa tu compra</tspan>
+                </text>
+                <text id="Cantidad_active" font-family="Gotham-Medium, Gotham" font-size="12" font-weight="400" line-spacing="14" fill="#9097A3">
+                    <tspan x="282.472" y="40">Pedido Generado</tspan>
+                </text>
+                <rect id="Rectangle" fill="#219D51" transform="translate(97.000000, 21.500000) scale(1, -1) translate(-97.000000, -21.500000) " x="0" y="20" width="194" height="3" rx="1.5"></rect>
+                <rect id="Rectangle" fill="#C6CBD4" transform="translate(290.500000, 21.500000) scale(1, -1) translate(-290.500000, -21.500000) " x="194" y="20" width="193" height="3" rx="1.5"></rect>
+                <g id="if_iconoteka_shopping_cart__grocery_store_b_s_3507742" transform="translate(177.000000, 0.000000)" fill="#219D51" fill-rule="nonzero">
+                    <path d="M4.47666667,1.78947368 L4.04761905,0 L1.01190476,0 C0.564817107,0 0.202380952,0.400587329 0.202380952,0.894736842 C0.202380952,1.38888636 0.564817107,1.78947368 1.01190476,1.78947368 L2.80904762,1.78947368 L5.42380952,13.4210526 L16.1904762,13.4210526 L16.1904762,11.6315789 L6.68666667,11.6315789 L6.41952381,10.4326316 L17,8.20473684 L17,1.78947368 L4.47666667,1.78947368 Z M15.3809524,6.72842105 L6.03095238,8.68789474 L4.85714286,3.57894737 L15.3809524,3.57894737 L15.3809524,6.72842105 Z M5.66666667,14.3157895 C4.99603518,14.3157895 4.45238095,14.9166705 4.45238095,15.6578947 C4.45238095,16.399119 4.99603518,17 5.66666667,17 C6.33729815,17 6.88095238,16.399119 6.88095238,15.6578947 C6.88095238,14.9166705 6.33729815,14.3157895 5.66666667,14.3157895 Z M15.3809524,14.3157895 C14.7103209,14.3157895 14.1666667,14.9166705 14.1666667,15.6578947 C14.1666667,16.399119 14.7103209,17 15.3809524,17 C16.0515839,17 16.5952381,16.399119 16.5952381,15.6578947 C16.5952381,14.9166705 16.0515839,14.3157895 15.3809524,14.3157895 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

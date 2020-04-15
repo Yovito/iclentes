@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>-hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-hover" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" stroke="#ED1B2F" fill="#ED1B2F" x="-0.5" y="-0.5" width="37" height="37" rx="3"></rect>
+            <path d="M10.6425,17.7858 L10.6425,17.7408 C10.6425,13.15035 14.17545,9.55035 18.94545,9.55035 C22.16295,9.55035 24.2334,10.90035 25.62885,12.83535 L22.3434,15.37785 C21.4434,14.25285 20.40795,13.53285 18.9009,13.53285 C16.6959,13.53285 15.14295,15.40035 15.14295,17.69535 L15.14295,17.74035 C15.14295,20.10285 16.69545,21.9483 18.9009,21.9483 C20.5434,21.9483 21.5109,21.1833 22.4559,20.03535 L25.74135,22.3758 C24.2559,24.4233 22.2534,25.9308 18.7659,25.9308 C14.26545,25.93125 10.6425,22.48875 10.6425,17.7858 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

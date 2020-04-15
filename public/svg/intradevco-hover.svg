@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.01.Unidad_negocio" transform="translate(-128.000000, -187.000000)">
+            <g id="Group-4" transform="translate(128.000000, 187.000000)">
+                <rect id="Rectangle" stroke="#ED1B2F" fill="#ED1B2F" x="0.5" y="0.5" width="37" height="37" rx="3"></rect>
+                <g id="Group-3" transform="translate(10.925000, 9.975000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="I" points="4.928125 16.625 4.928125 0 0.296875 0 0.296875 16.625"></polygon>
+                    <path d="M10.7185,16.625 L10.7185,11.058 C10.7185,9.937 11.3645,9.329 12.2385,9.329 C13.0935,9.329 13.6825,9.937 13.6825,11.058 L13.6825,16.625 L17.2925,16.625 L17.2925,9.899 C17.2925,7.562 15.9815,6.118 13.7965,6.118 C12.3335,6.118 11.3835,6.935 10.7185,7.79 L10.7185,6.346 L7.1085,6.346 L7.1085,16.625 L10.7185,16.625 Z" id="n"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

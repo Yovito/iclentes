@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.7%" y="-15.0%" width="128.2%" height="129.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.190811821 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---buscador-desplegable" transform="translate(-755.000000, -2.000000)">
+            <g id="buscador" filter="url(#filter-1)" transform="translate(258.000000, -9.000000)">
+                <g id="search" transform="translate(526.000000, 32.000000)">
+                    <polygon id="Shape" transform="translate(6.333333, 6.333333) scale(1, -1) translate(-6.333333, -6.333333) " points="12.6666667 0 0 0 0 12.6666667 12.6666667 12.6666667"></polygon>
+                    <path d="M9.28142958,5.44275362 L9.07834839,5.64436321 C9.79575476,6.48096941 10.232085,7.56554069 10.232085,8.75385997 C10.232085,11.395387 8.0909029,13.5365691 5.44937583,13.5365691 C2.80784877,13.5365691 0.666666667,11.395387 0.666666667,8.75385997 C0.666666667,6.1123329 2.80784877,3.9711508 5.44937583,3.9711508 C6.63769511,3.9711508 7.72153059,4.40674524 8.55813679,5.12341581 L8.76121798,4.92180622 L8.76121798,4.33905151 L12.4387534,0.666666667 L13.5358333,1.76374657 L9.8656559,5.44275362 L9.28142958,5.44275362 Z M2.13826949,8.75385997 C2.13826949,10.5823265 3.62017353,12.0649663 5.44937583,12.0649663 C7.27784234,12.0649663 8.76048218,10.5823265 8.76048218,8.75385997 C8.76048218,6.92465766 7.27784234,5.44275362 5.44937583,5.44275362 C3.62017353,5.44275362 2.13826949,6.92465766 2.13826949,8.75385997 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.5" fill="#FFFFFF" transform="translate(7.101250, 7.101618) scale(1, -1) translate(-7.101250, -7.101618) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

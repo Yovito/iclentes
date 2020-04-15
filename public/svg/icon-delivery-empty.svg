@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="182px" viewBox="0 0 188 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>hotel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="07.01.Seguimiento_pedido" transform="translate(-476.000000, -703.000000)" fill="#E0E2E7" fill-rule="nonzero">
+            <g id="Group-8" transform="translate(276.000000, 703.000000)">
+                <g id="hotel" transform="translate(200.000000, 0.000000)">
+                    <path d="M183.7465,143 L21.0405781,143 C18.6913125,143 16.7870781,141.156231 16.7870781,138.882355 L16.7870781,20.3976972 C16.7870781,13.6908843 11.1643359,8.23493398 4.25313281,8.23493398 C1.90423438,8.23493398 0,6.39116471 0,4.11764472 C0,1.84412472 1.90423438,0 4.2535,0 C15.8555234,0 25.2940781,9.15095353 25.2940781,20.3980527 L25.2940781,134.765421 L183.7465,134.765421 C186.095766,134.765421 188,136.609191 188,138.883066 C188,141.156231 186.095766,143 183.7465,143 Z" id="Path"></path>
+                    <path d="M36,119.999655 L36,87.0010346 L129.092067,87.0010346 L129.092809,87 L166,87 L166,120 L36,119.999655 Z" id="Combined-Shape"></path>
+                    <path d="M166,38.0003449 L166,71 L129.092809,71 L129.091,70.998 L36,70.9982756 L36,38 L166,38.0003449 Z" id="Combined-Shape"></path>
+                    <g id="Group" transform="translate(26.000000, 156.000000)">
+                        <ellipse id="Oval" cx="14.2762267" cy="12.9726316" rx="13.9947406" ry="12.7564211"></ellipse>
+                        <ellipse id="Oval" cx="134.994375" cy="12.9726316" rx="13.9947406" ry="12.7564211"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

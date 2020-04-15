@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 201 201" style="enable-background:new 0 0 201 201;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-1);}
+	.st1{fill:#D91728;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="126.0%" id="filter-1" width="158.7%" x="-31.0%" y="-13.1%">
+	<feMorphology  in="SourceAlpha" operator="dilate" radius="14" result="shadowSpreadOuter1"></feMorphology>
+	<feOffset  dx="0" dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" result="shadowMatrixOuter1" type="matrix" values="0 0 0 0 0.596127717   0 0 0 0 0.596127717   0 0 0 0 0.596127717  0 0 0 0.118999094 0">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<title>Group 7</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Desktop---Carrito_linea-de-credito" transform="translate(-861.000000, -121.000000)">
+		<g id="Carrito-desple" transform="translate(850.000000, -106.000000)" class="st0">
+			<g id="Carrito-desple-2_1_">
+				<g id="Group-5_1_" transform="translate(30.000000, 238.000000)">
+					<g id="Group-9_1_">
+						<g id="Group-7_1_" transform="translate(-0.000000, 0.000000)">
+							<polygon id="Fill-4_1_" class="st1" points="73,138 92,138 92,119 73,119 							"/>
+							<polygon id="Fill-6_1_" class="st1" points="73,100 92,100 92,40 73,40 							"/>
+							<path id="Fill-1_1_" class="st1" d="M81.5,169.9c-44.4,0-80.4-36-80.4-80.4s36-80.4,80.4-80.4s80.4,36,80.4,80.4
+								S125.9,169.9,81.5,169.9 M81.4-11C25.9-11-19,34-19,89.5S25.9,190,81.4,190S182,145,182,89.5S137-11,81.4-11"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

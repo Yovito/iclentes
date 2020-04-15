@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="producto-en-carrito" transform="translate(-254.000000, -7.000000)">
+            <g id="Group" transform="translate(254.000000, 7.000000)">
+                <circle id="Oval" fill-opacity="0.479647871" fill="#A8A8A8" cx="11.5" cy="11.5" r="11.5"></circle>
+                <polygon id="x" fill-opacity="0.89990942" fill="#4C4C4C" points="16.48 8.51555556 15.4844444 7.52 12 11.0044444 8.51555556 7.52 7.52 8.51555556 11.0044444 12 7.52 15.4844444 8.51555556 16.48 12 12.9955556 15.4844444 16.48 16.48 15.4844444 12.9955556 12"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

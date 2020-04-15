@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 14.1 14.1" style="enable-background:new 0 0 14.1 14.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-1);}
+	.st1{fill:#FFFFFF;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="126.0%" id="filter-1" width="164.1%" x="-32.0%" y="-13.1%">
+	<feMorphology  in="SourceAlpha" operator="dilate" radius="14" result="shadowSpreadOuter1"></feMorphology>
+	<feOffset  dx="0" dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" result="shadowMatrixOuter1" type="matrix" values="0 0 0 0 0.596127717   0 0 0 0 0.596127717   0 0 0 0 0.596127717  0 0 0 0.118999094 0">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<title>Group 9</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Desktop---Carrito_linea-de-credito" transform="translate(-854.000000, -215.000000)">
+		<g id="Carrito-desple" transform="translate(850.000000, -106.000000)" class="st0">
+			<g id="Carrito-desple-2_1_">
+				<g id="Group-5_1_" transform="translate(19.000000, 328.000000)">
+					<g id="Group-9_1_" transform="translate(3.000000, 3.000000)">
+						<polygon id="Fill-4_1_" class="st1" points="-11.7,0.6 -10.3,0.6 -10.3,-0.8 -11.7,-0.8 						"/>
+						<polygon id="Fill-6_1_" class="st1" points="-11.7,-2.2 -10.3,-2.2 -10.3,-6.4 -11.7,-6.4 						"/>
+						<path id="Fill-1_1_" class="st1" d="M-11,2.7c-3.1,0-5.6-2.5-5.6-5.6s2.5-5.6,5.6-5.6S-5.4-6-5.4-2.9S-7.9,2.7-11,2.7
+							 M-11-9.9c-3.9,0-7,3.1-7,7s3.1,7,7,7s7-3.1,7-7S-7.1-9.9-11-9.9"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

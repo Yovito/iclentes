@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>hotel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07.Detalle_pedido" transform="translate(-240.000000, -445.000000)" fill-rule="nonzero">
+            <g id="hotel" transform="translate(240.000000, 445.000000)">
+                <path d="M29.32125,23.6184375 L3.35753906,23.6184375 C2.98265625,23.6184375 2.67878906,23.3145117 2.67878906,22.9396875 L2.67878906,3.40875 C2.67878906,2.30320313 1.78154297,1.40384766 0.678691406,1.40384766 C0.303867188,1.40384766 0,1.09992188 0,0.72515625 C0,0.350390625 0.303867188,0.04640625 0.67875,0.04640625 C2.53013672,0.04640625 4.03628906,1.55484375 4.03628906,3.40880859 L4.03628906,22.2610547 L29.32125,22.2610547 C29.6961328,22.2610547 30,22.5649805 30,22.9398047 C30,23.3145117 29.6961328,23.6184375 29.32125,23.6184375 Z" id="Path" fill="#484D4F"></path>
+                <path d="M6.57259766,19.7210561 L26.1063086,19.7211119 L26.1063086,15.1145746 L6.57259766,15.1147418 L6.57259766,19.7210561 Z" id="Combined-Shape" stroke="#484D4F" fill="#78B928"></path>
+                <path d="M6.57259766,11.3957103 L26.1063086,11.395989 L26.1063086,6.7894517 L6.57259766,6.78939596 L6.57259766,11.3957103 Z" id="Combined-Shape" stroke="#484D4F" fill="#78B928"></path>
+                <g id="Group" transform="translate(4.687500, 24.960938)" fill="#484D4F">
+                    <circle id="Oval" cx="2.22878906" cy="2.221875" r="2.18484375"></circle>
+                    <circle id="Oval" cx="21.0751758" cy="2.221875" r="2.18484375"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

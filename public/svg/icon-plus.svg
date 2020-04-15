@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04.Confirmación_pedido" transform="translate(-593.000000, -692.000000)">
+            <g id="Group-4" transform="translate(16.000000, 656.000000)">
+                <g id="Group">
+                    <g id="Group-8" transform="translate(577.000000, 36.000000)">
+                        <circle id="Oval" stroke="#78B928" cx="12" cy="12" r="11.5"></circle>
+                        <g id="Group-6" transform="translate(8.000000, 8.000000)" fill="#78B928" fill-rule="nonzero">
+                            <path d="M7.56369106,4 L3.90585366,4 L0.43398374,4 C0.29700813,4 0,4.186 0,4.55798374 C0,4.92996748 0.29702439,5.11596748 0.43398374,5.11596748 L3.90585366,5.11596748 L7.56372358,5.11596748 C7.70065041,5.11596748 7.99769106,4.92996748 7.99769106,4.55798374 C7.99769106,4.186 7.70065041,4 7.56369106,4 Z" id="Path"></path>
+                            <path d="M7.56369106,4 L3.90585366,4 L0.43398374,4 C0.29700813,4 0,4.186 0,4.55798374 C0,4.92996748 0.29702439,5.11596748 0.43398374,5.11596748 L3.90585366,5.11596748 L7.56372358,5.11596748 C7.70065041,5.11596748 7.99769106,4.92996748 7.99769106,4.55798374 C7.99769106,4.186 7.70065041,4 7.56369106,4 Z" id="Path" transform="translate(3.998846, 4.557984) rotate(-270.000000) translate(-3.998846, -4.557984) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

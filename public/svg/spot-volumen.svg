@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="30px" viewBox="0 0 29 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>package-cube-box-for-delivery</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flujos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07.Detalle_pedido" transform="translate(-456.000000, -445.000000)" stroke="#484D4F">
+            <g id="package-cube-box-for-delivery" transform="translate(456.000000, 446.000000)">
+                <path d="M0.532408437,21.8383416 L0.532408588,21.8384076 C0.532798266,22.0128457 0.637005384,22.1703081 0.797470833,22.2389021 L13.2502116,27.5622242 C13.5387706,27.6855681 13.8593759,27.4734036 13.8586434,27.15956 L13.8262801,13.4804451 C13.8258674,13.3059836 13.7216605,13.1485183 13.5612177,13.079934 L1.10847697,7.75661185 C0.81992154,7.63326954 0.499312633,7.84542853 0.500045085,8.15922689 L0.532408437,21.8383416 Z" id="Shape" fill="#78B928" fill-rule="nonzero"></path>
+                <path d="M1.02024141,5.70660988 L14.8622103,-0.342012356 L28.5375675,5.75682658 L14.9250103,11.8344239 L1.02024141,5.70660988 Z" id="Path-9" fill="#C6CBD4" stroke-linejoin="round"></path>
+                <path d="M15.4549437,13.2924652 L28.2417179,7.75137901 L28.3556536,22.0269229 L15.446999,27.4267149 L15.4549437,13.2924652 Z" id="Path-10" stroke-linejoin="round"></path>
+                <line x1="15" y1="9.65797993" x2="23.2422892" y2="6" id="Path-11" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="17" y1="24.7459908" x2="26.6659709" y2="20.7260761" id="Path-11" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
